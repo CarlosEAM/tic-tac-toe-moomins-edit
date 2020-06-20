@@ -29,3 +29,7 @@ Pull requests are welcomed.
 
 - [Amy Louise Sutton](https://amythehatter.com) - images creator
 - [Carlos E Alford M](https://carlosealford.com) - website implemention
+
+## License
+
+- [MIT License](LICENSE.md)
